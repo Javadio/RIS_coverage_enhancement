@@ -12,7 +12,7 @@ Running this code requires Sionna 0.16 or later. To run the notebooks on your ma
 
 # Files
 -------------------------------------------------------------------------------------
-[Cape town_coverage_learning] () demonstrates how the amplitude of the RIS reradiation modes in a scene can be learned by gradient descent. You need to download the cape town xml file to import the scene.  
+Cape town_coverage_learning.ipynb demonstrates how the amplitude of the RIS reradiation modes in a scene can be learned by gradient descent. You need to download the cape town xml file to import the scene.  
 
 # References
 -------------------------------------------------------------------------------------
